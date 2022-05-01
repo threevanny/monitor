@@ -8,7 +8,7 @@ sites:
   - name: Threevanny
     url: https://www.threevanny.com
     
- assigness:
+ assignees:
   - threevanny
   
 status-website:
